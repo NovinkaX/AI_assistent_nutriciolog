@@ -50,7 +50,7 @@
 
 ---
 
-## 📊 Примеры работы бота
+## 📊 Структура работы бота
 ![Пример 1](https://github.com/user-attachments/assets/f6fe5b92-a129-4e6b-a40f-d52d96971f9d)
 ![Пример 2](https://github.com/user-attachments/assets/b1a2114b-7ad6-40f6-99a3-d70764a464de)
 
