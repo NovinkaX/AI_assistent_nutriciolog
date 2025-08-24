@@ -39,7 +39,6 @@ examples/ — примеры рекомендаций для разных цел
 📜 Лицензия
 Проект распространяется под лицензией MIT.
 <img width="1490" height="869" alt="1" src="https://github.com/user-attachments/assets/f6fe5b92-a129-4e6b-a40f-d52d96971f9d" />
-<img width="1536" height="863" alt="2025-08-24_16-00-27" src="https://github.com/user-attachments/assets/ce1d0b78-1a1d-4b93-a617-24a3939a0da4" />
 <img width="985" height="822" alt="2025-08-24_16-01-44" src="https://github.com/user-attachments/assets/b1a2114b-7ad6-40f6-99a3-d70764a464de" />
 
 Промпт
